@@ -1,0 +1,162 @@
+
+> yehoshuva-portfolio@2.0.0 dev
+> vite --host 127.0.0.1
+
+
+  [32m[1mVITE[22m v5.4.10[39m  [2mready in [0m[1m675[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m11:47:11 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/three/HeroScene.jsx, /src/index.css[22m
+[2m11:47:12 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui/Portrait.jsx, /src/index.css[22m
+[2m11:47:13 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/index.css[22m
+[2m11:48:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/three/HeroScene.jsx, /src/index.css[22m
+[2m11:48:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css[22m
+[2m11:49:06 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/three/HeroScene.jsx, /src/index.css[22m
+[2m12:00:05 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css, /src/components/BootScreen.jsx, /src/components/Footer.jsx, /src/components/Contact.jsx, /src/components/About.jsx, /src/components/Experience.jsx, /src/components/Navbar.jsx, /src/components/ResumeSection.jsx, /src/components/ui/Portrait.jsx[22m
+[2m12:00:14 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css, /src/components/BootScreen.jsx, /src/components/Footer.jsx, /src/components/Contact.jsx, /src/components/About.jsx, /src/components/Experience.jsx, /src/components/Navbar.jsx, /src/components/ResumeSection.jsx, /src/components/ui/Portrait.jsx[22m
+[2m12:00:16 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css, /src/components/BootScreen.jsx, /src/components/Footer.jsx, /src/components/Contact.jsx, /src/components/About.jsx, /src/components/Experience.jsx, /src/components/Navbar.jsx, /src/components/ResumeSection.jsx, /src/components/ui/Portrait.jsx[22m
+[2m12:08:01 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css, /src/components/BootScreen.jsx, /src/components/Footer.jsx, /src/components/Contact.jsx, /src/components/About.jsx, /src/components/Experience.jsx, /src/components/Navbar.jsx, /src/components/ResumeSection.jsx, /src/components/ui/Portrait.jsx[22m
+[2m12:08:03 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css, /src/components/BootScreen.jsx, /src/components/Footer.jsx, /src/components/Contact.jsx, /src/components/About.jsx, /src/components/Experience.jsx, /src/components/Navbar.jsx, /src/components/ResumeSection.jsx, /src/components/ui/Portrait.jsx[22m
+[2m12:08:08 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css, /src/components/BootScreen.jsx, /src/components/Footer.jsx, /src/components/Contact.jsx, /src/components/About.jsx, /src/components/Experience.jsx, /src/components/Navbar.jsx, /src/components/ResumeSection.jsx, /src/components/ui/Portrait.jsx[22m
+[2m12:13:26 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:13:27 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:13:27 AM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to parse source for import analysis because the content contains invalid JS syntax. If you are using JSX, make sure to name the file with the .jsx or .tsx extension.
+[2m12:13:27 AM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to parse source for import analysis because the content contains invalid JS syntax. If you are using JSX, make sure to name the file with the .jsx or .tsx extension.
+[2m12:13:27 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to parse source for import analysis because the content contains invalid JS syntax. If you are using JSX, make sure to name the file with the .jsx or .tsx extension.[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/YEHOSHUVA/OneDrive/Documents/YehoshuvaPortfolio/src/data/projects.js[39m:20:106
+[33m  18 |      motif: 'candles',
+  19 |      accent: '#4f7cff',
+  20 |      thumbnail: /assets/projects/stockm.jpg', // add /assets/projects/stockm.jpg to override generated art
+     |                                                                                                           ^
+  21 |      description:
+  22 |        'A market intelligence workspace that turns years of price history into features a model can reason over, then answers questions about it with retrieval-grounded context.',[39m
+      at TransformPluginContext._formatError (file:///C:/Users/YEHOSHUVA/OneDrive/Documents/YehoshuvaPortfolio/node_modules/vite/dist/node/chunks/dep-BWSbWtLw.js:49255:41)
+      at TransformPluginContext.error (file:///C:/Users/YEHOSHUVA/OneDrive/Documents/YehoshuvaPortfolio/node_modules/vite/dist/node/chunks/dep-BWSbWtLw.js:49250:16)
+      at TransformPluginContext.transform (file:///C:/Users/YEHOSHUVA/OneDrive/Documents/YehoshuvaPortfolio/node_modules/vite/dist/node/chunks/dep-BWSbWtLw.js:63993:14)
+      at async PluginContainer.transform (file:///C:/Users/YEHOSHUVA/OneDrive/Documents/YehoshuvaPortfolio/node_modules/vite/dist/node/chunks/dep-BWSbWtLw.js:49096:18)
+      at async loadAndTransform (file:///C:/Users/YEHOSHUVA/OneDrive/Documents/YehoshuvaPortfolio/node_modules/vite/dist/node/chunks/dep-BWSbWtLw.js:51929:27)
+      at async viteTransformMiddleware (file:///C:/Users/YEHOSHUVA/OneDrive/Documents/YehoshuvaPortfolio/node_modules/vite/dist/node/chunks/dep-BWSbWtLw.js:61881:24)
+[2m12:13:31 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:14:12 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:14:14 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:14:19 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:14:24 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:14:27 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:14:28 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:14:30 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:14:31 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:16:12 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:16:14 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:16:17 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:16:18 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:16:39 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:17:22 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:17:27 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:17:56 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:20:58 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:20:59 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:21:00 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:21:06 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:21:08 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[33mFiles in the public directory are served at the root path.
+Instead of [36m/public/assets/projects/stockM1.jpg[33m, use [36m/assets/projects/stockM1.jpg[33m.[39m
+[2m12:21:17 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:21:58 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:22:00 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:22:12 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m12:40:07 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m12:40:09 AM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mtailwind.config.js[22m
+[2m12:40:10 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css[22m
+[2m12:40:10 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui/SectionHeading.jsx, /src/index.css[22m
+[2m12:40:11 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx, /src/index.css[22m
+[2m12:40:12 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx, /src/index.css[22m
+[2m12:40:13 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m12:40:14 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Footer.jsx, /src/index.css[22m
+[2m12:40:14 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProjectModal.jsx, /src/index.css[22m
+[2m12:40:16 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css[22m
+[2m12:40:17 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Certifications.jsx, /src/index.css[22m
+[2m12:40:18 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeSection.jsx, /src/index.css[22m
+[2m12:45:46 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m12:45:49 AM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mtailwind.config.js[22m
+[2m12:45:51 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css[22m
+[2m12:45:52 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui/SectionHeading.jsx, /src/index.css[22m
+[2m12:45:53 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx, /src/index.css[22m
+[2m12:45:54 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Strengths.jsx, /src/index.css[22m
+[2m12:45:54 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m12:45:55 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Footer.jsx, /src/index.css[22m
+[2m12:45:56 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProjectModal.jsx, /src/index.css[22m
+[2m12:45:57 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx, /src/index.css[22m
+[2m12:45:58 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Certifications.jsx, /src/index.css[22m
+[2m12:45:58 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeSection.jsx, /src/index.css[22m
+[2m1:06:09 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/index.css[22m
+[2m1:06:10 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/index.css[22m
+[2m1:07:01 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css[22m
+[2m1:07:03 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css[22m
+[2m1:07:04 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css[22m
+[2m1:07:05 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css[22m
+[2m1:07:58 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m1:07:59 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m1:08:00 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m1:08:01 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m1:09:27 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeSection.jsx, /src/index.css[22m
+[2m1:09:29 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeSection.jsx, /src/index.css[22m
+[2m1:09:30 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeSection.jsx, /src/index.css[22m
+[2m1:09:31 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeSection.jsx, /src/index.css[22m
+[2m1:09:34 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeSection.jsx, /src/index.css[22m
+[2m1:09:36 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeSection.jsx, /src/index.css[22m
+[2m1:12:33 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:12:49 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:12:51 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:12:58 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:13:06 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:13:22 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:13:25 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:13:31 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:14:15 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:14:19 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:14:29 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:14:31 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:14:36 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:14:39 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:14:43 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:15:19 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:15:22 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:15:23 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:15:27 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:15:32 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:15:38 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:15:41 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:15:44 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:15:48 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:01 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:03 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:14 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:19 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:22 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:24 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:40 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:44 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:51 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:54 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:16:58 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:17:01 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:17:05 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:17:07 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:17:09 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:17:12 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:17:21 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:17:27 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:17:30 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:17:34 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:17:37 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:18:07 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:18:09 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:18:21 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:18:24 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:18:42 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:18:46 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:18:51 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:18:56 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Experience.jsx, /src/index.css, /src/components/ResumeSection.jsx[22m
+[2m1:27:57 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeSection.jsx, /src/index.css[22m
+[2m1:28:00 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeSection.jsx, /src/index.css[22m
